@@ -1,7 +1,7 @@
 # FaceDemo
 - Download and install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
-- Download and inslall Node version manager for Windows  [Node js](https://nodejs.org/en/) or google it for your system. If you do not find it for your you have to install old version of Node js
-- Download and inslall [Node js](https://nodejs.org/en/) LTS or 10.16.3 (in case you dont have nvm)
+- Download and inslall Node version manager for Windows  [Node js](https://nodejs.org/en/) or google it for your system. If you do not find it for your system you have to install older version of Node js
+- Download and inslall [Node js](https://nodejs.org/en/) LTS or older version from archive - 10.16.3 (in case you dont have nvm)
 - Run in a command line 
 ```
 node -v
