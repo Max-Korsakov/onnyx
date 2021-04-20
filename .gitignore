@@ -7,6 +7,8 @@
 # Only exists if Bazel was run
 /bazel-out
 
+/src/assets/arcfaceresnet100-8_updated.onnx
+
 # dependencies
 /node_modules
 
